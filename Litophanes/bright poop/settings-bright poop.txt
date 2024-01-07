@@ -1,0 +1,15 @@
+Email Address: rob@robmiles.com
+Picture: bright poop.jpg
+Lithophane Resolution: 0.25
+Colored Resolution: 0.8
+Layer Height: 0.1
+Width: 144
+Maximum Thickness: 2.7
+Minimum Thickness: 0.8
+Height: 116.13
+X Shift: 0.5
+Y Shift: 0.5
+Rectangle Scale: 1.0
+Crop?: 
+First Layer Height: 0.15
+Filaments for Color Palette: eSun Warm White; Purple/Magenta; HATCHBOX Yellow; AIO Cyan

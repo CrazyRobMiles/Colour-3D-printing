@@ -1,0 +1,65 @@
+{
+    "base_layer_height": 0.2199999988079071,
+    "border_height": 3,
+    "border_width": 4,
+    "borderless": true,
+    "bright_adjust_zero": false,
+    "depth_mode": 2,
+    "filament_set": [
+        {
+            "Brand": "BambuLab Basic",
+            "Color": "#ffffff",
+            "Name": "Jade White",
+            "Owned": true,
+            "Transmissivity": 5,
+            "Type": "PLA",
+            "uuid": "{29d0549f-7950-4e60-b9e5-aa081f71d61b}"
+        },
+        {
+            "Brand": "JAYO",
+            "Color": "#646464",
+            "Name": "Gray",
+            "Owned": true,
+            "Transmissivity": 2.5,
+            "Type": "PETG",
+            "uuid": "{02d11312-1e7b-41b4-b125-59e8bf99b932}"
+        },
+        {
+            "Brand": "JAYO",
+            "Color": "#000000",
+            "Name": "Black",
+            "Owned": true,
+            "Transmissivity": 0.3,
+            "Type": "PETG",
+            "uuid": "{b0cf1715-d6c6-4abe-895d-5baf28267fb1}"
+        }
+    ],
+    "full_range": true,
+    "height_in_mm": 129.36000061035156,
+    "image": "C:/Users/rsmil/OneDrive/Hackspace Magazine/2024-01-08 Coloured Lithphanes/Mag Cover/newCover.png",
+    "layer_height": 0.2199999988079071,
+    "legacy_luminance": false,
+    "light_intensity": 20,
+    "light_temperature": 1,
+    "luminance_factor": 0,
+    "luminance_method": 2,
+    "luminance_offset": 0,
+    "luminance_offset_max": 100,
+    "luminance_weight": 100,
+    "max_depth": 2,
+    "min_depth": 0.23999999463558197,
+    "min_detail": 0.20000000298023224,
+    "negative": true,
+    "reverse_litho": true,
+    "slider_values": [
+        3,
+        5,
+        7
+    ],
+    "smoothing": 4,
+    "srgb_linearize": false,
+    "stl": "C:/Users/rsmil/OneDrive/Hackspace Magazine/2024-01-08 Coloured Lithphanes/Mag Cover/newCover_Front_100x129.stl",
+    "transparency": true,
+    "version": "0.5.2",
+    "width_in_mm": 100
+}

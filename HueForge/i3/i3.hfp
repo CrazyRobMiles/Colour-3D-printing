@@ -1,0 +1,75 @@
+{
+    "base_layer_height": 0.1599999964237213,
+    "border_height": 3,
+    "border_width": 4,
+    "borderless": true,
+    "bright_adjust_zero": false,
+    "depth_mode": 2,
+    "filament_set": [
+        {
+            "Brand": "BambuLab Basic",
+            "Color": "#ffffff",
+            "Name": "Jade White",
+            "Owned": true,
+            "Transmissivity": 5,
+            "Type": "PLA",
+            "uuid": "{29d0549f-7950-4e60-b9e5-aa081f71d61b}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#969696",
+            "Name": "Silver Smoke Grey",
+            "Owned": false,
+            "Transmissivity": 20,
+            "Type": "PLA",
+            "uuid": "{ff2f9864-3964-5f63-70ae-e830294a98ea}"
+        },
+        {
+            "Brand": "PolyLite",
+            "Color": "#39b9db",
+            "Name": "Aqua Blue",
+            "Owned": false,
+            "Transmissivity": 2.5,
+            "Type": "PLA",
+            "uuid": "{a3b6d99c-42e8-7e7e-c1ea-a4ec42153f46}"
+        },
+        {
+            "Brand": "Protopasta",
+            "Color": "#101820",
+            "Name": "Black",
+            "Owned": false,
+            "Transmissivity": 0.5,
+            "Type": "PLA",
+            "uuid": "{02867c8c-353a-6787-b5bc-c33ccc09499f}"
+        }
+    ],
+    "full_range": true,
+    "height_in_mm": 110.5999984741211,
+    "image": "C:/Users/rsmil/OneDrive/Hackspace Magazine/2024-01-08 Coloured Lithphanes/HueForge/i3.png",
+    "layer_height": 0.07999999821186066,
+    "legacy_luminance": false,
+    "light_intensity": 20,
+    "light_temperature": 1,
+    "luminance_factor": 0,
+    "luminance_method": 0,
+    "luminance_offset": 0,
+    "luminance_offset_max": 100,
+    "luminance_weight": 100,
+    "max_depth": 2,
+    "min_depth": 0.23999999463558197,
+    "min_detail": 0.20000000298023224,
+    "negative": true,
+    "reverse_litho": true,
+    "slider_values": [
+        4,
+        5,
+        9,
+        22
+    ],
+    "smoothing": 3,
+    "srgb_linearize": false,
+    "stl": "C:/Users/rsmil/OneDrive/Hackspace Magazine/2024-01-08 Coloured Lithphanes/HueForge/i3_Front_200x111.stl",
+    "transparency": true,
+    "version": "0.5.2",
+    "width_in_mm": 200
+}

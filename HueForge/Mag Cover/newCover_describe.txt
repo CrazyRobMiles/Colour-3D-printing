@@ -1,0 +1,13 @@
+Print at 100% infill with a layer height of 0.22mm with a base layer of 0.22mm
+
+Filaments Used:
+	PETG JAYO Black Transmission Distance: 0.3
+	PETG JAYO Gray Transmission Distance: 2.5
+	PLA BambuLab Basic Jade White Transmission Distance: 5
+
+!!!!  It appears you have mixed filament types.  Be certain this is what you want.  !!!!!
+
+Swap Instructions:
+	Start with Black
+	At layer #4 (0.88mm) swap to Gray
+	At layer #6 (1.32mm) swap to Jade White for the rest.

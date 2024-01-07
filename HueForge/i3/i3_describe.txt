@@ -1,0 +1,13 @@
+Print at 100% infill with a layer height of 0.08mm with a base layer of 0.16mm
+
+Filaments Used:
+	PLA Protopasta Black Transmission Distance: 0.5
+	PLA PolyLite Aqua Blue Transmission Distance: 2.5
+	PLA Protopasta Silver Smoke Grey Transmission Distance: 20
+	PLA BambuLab Basic Jade White Transmission Distance: 5
+
+Swap Instructions:
+	Start with Black
+	At layer #5 (0.48mm) swap to Aqua Blue
+	At layer #6 (0.56mm) swap to Silver Smoke Grey
+	At layer #10 (0.88mm) swap to Jade White for the rest.
